@@ -245,6 +245,7 @@ html, body {
     font-weight: 700;
     margin: 0 0 15px;
     text-transform: uppercase;
+    color: red;
 }
 
 .job-title {
@@ -275,6 +276,7 @@ html, body {
     font-size: 36px;
     margin: 0;
     text-transform: uppercase;
+    color: red;
 }
 
 .img-lines {
